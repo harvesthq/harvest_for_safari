@@ -9,7 +9,7 @@ within popular project management tools.
 With the Harvest for Safari extension, you can:
 
 * Start and stop timers directly from the Safari toolbar.
-* Start and stop timers from to-dos and cards in Basecamp and Trello.
+* Start and stop timers from to-dos in Basecamp and cards in Trello.
 
 ## Download Harvest for Safari
 
