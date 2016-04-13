@@ -6,15 +6,15 @@ within popular project management tools.
 
 ## Overview
 
-The extension consists of two primary capabilities:
+With the Harvest for Safari extension, you can:
 
-* Starting & stopping Harvest timers direct from the Safari toolbar
-* Starting and stopping timers from elements within third-party applications
+* Start and stop timers directly from the Safari toolbar.
+* Start and stop timers from to-dos and cards in Basecamp and Trello.
 
-## Installation
+## Download Harvest for Safari
 
-* Download the newest version from [Releases](https://github.com/harvesthq/harvest_for_safari/releases)
-* Double click on the downloaded **harvest_for_safari-x.y.z.safariextz** to install
-* Click **Trust** in Safari to confirm installation
+* Download the newest version from [Releases](https://github.com/harvesthq/harvest_for_safari/releases).
+* Double click on the downloaded **harvest_for_safari-x.y.z.safariextz**.
+* Click **Trust** in Safari to confirm downloading the extension.
 
 ![Click Trust to confirm](http://cloudapp.layer22.com/1t3W1G050F3F/Screen%20Shot%202016-04-13%20at%2011.27.51.png)
