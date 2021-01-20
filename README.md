@@ -1,3 +1,9 @@
+# Deprecated
+==================
+#### The Harvest for Safari extension is not currently under active development while we decide on its future direction.
+
+---
+
 Harvest for Safari
 ==================
 
